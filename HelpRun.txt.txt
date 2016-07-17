@@ -1,0 +1,37 @@
+Enter File path for Talks details : 
+C:\\Users\\vipul\\input.txt
+
+
+ This will be the output
+
+Track1:
+09:00AM Rails Magic 60min
+10:00AM Rails for Python Developers 5min
+10:05AM Writing Fast Tests Against Enterprise Rails 60min
+11:05AM A World Without HackerNews 30min
+12:00PM Lunch 60min
+
+01:00PM Communicating Over Distance 60min
+02:00PM Ruby vs. Clojure for Back-End Development 30min
+02:30PM Ruby on Rails: Why We Should Move On 60min
+03:30PM Programming in the Boondocks of Seattle 30min
+04:00PM Ruby on Rails Legacy App Maintenance 60min
+05:00PM Networking Event 
+
+
+Track2:
+09:00AM Overdoing it in Python 45min
+09:45AM User Interface CSS in Rails Apps 30min
+10:15AM Pair Programming vs Noise 45min
+11:00AM Sit Down and Write 30min
+11:30AM Lua for the Masses 30min
+12:00PM Lunch 60min
+
+01:00PM Clojure Ate Scala (on my project) 45min
+01:45PM Woah 30min
+02:15PM Ruby Errors from Mismatched Gem Versions 45min
+03:00PM Common Ruby Errors 45min
+03:45PM Accounting-Driven Development 45min
+04:30PM Networking Event 
+
+
